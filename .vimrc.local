@@ -1,5 +1,7 @@
 let NERDTreeQuitOnOpen = 1
 let NERDTreeShowHidden = 1
 
+let g:vim_ai_roles_config_file = '~/.vim/roles.ini'
+
 set splitbelow
 set splitright

@@ -1,3 +1,6 @@
+Plug 'djoshea/vim-autoread'
 Plug 'editorconfig/editorconfig-vim'
 Plug 'github/copilot.vim'
 Plug 'madox2/vim-ai'
+Plug 'thaerkh/vim-workspace'
+Plug 'will133/vim-dirdiff'

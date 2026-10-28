@@ -1,6 +1,9 @@
 let NERDTreeQuitOnOpen = 1
 let NERDTreeShowHidden = 1
 
+let g:workspace_autocreate = 1
+let g:workspace_session_disable_on_args = 1
+
 let g:vim_ai_roles_config_file = '~/.vim/roles.ini'
 
 set splitbelow
